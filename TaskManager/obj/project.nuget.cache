@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cLT1ezpIa+AXV8oIPAIKLESCawfChzM9YXesG/AbPqwHzESL0rCazznoONIlHIGPHwb6UPmB2gn34fPNQpe4DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tima\\RiderProjects\\TaskManager\\TaskManager\\TaskManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tima\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.122\\microsoft.xaml.behaviors.wpf.1.1.122.nupkg.sha512"
+  ],
+  "logs": []
+}
